@@ -14,7 +14,7 @@ The ESP-IDF environment is required to use this library.
 
 ## Example
 
-An example of how to use this library will be added in the future.
+An example of how to use this library can be found [here](https://github.com/Krzyshio/ESP32_Adafruit_STEMMA_Soil_Sensor_Example).
 
 ## Features
 
